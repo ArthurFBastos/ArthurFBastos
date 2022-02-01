@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArthurFBastos
 - 👀 I’m interested in Work in Canada at CAE or CGI.
 - 🌱 I’m currently learning Computer Science in UFV(Campus Florestal)
-- 💞️ I’m looking to collaborate on Simullators Development.
+- 💞️ I’m looking to collaborate on Simulators Development.
 - 📫 How to reach me afbastos8@gmail.com
 
 <!---
