@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @ArthurFBastos
-- 👀 I’m interested in Work in Canada in software development or game development.
-- 🌱 I’m currently learning Computer Science in UFV(Campus Florestal)
-- 📫 How to reach me afbastos8@gmail.com
+## Olá, sou [Arthur Fernandes Bastos]
 
-<!---
-ArthurFBastos/ArthurFBastos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de Computação na UFV( Campus Florestal) focado em desenvolvimento de software,tenho afinidade na parte de front-end. 
+Mas também dou meus pulos no back-end e em conceitos importantes como POO, bancos de dados e engenharia de software.
+
+### Habilidades Técnicas:
+
+- Linguagens de Programação: HTML, CSS, JavaScript, Java, Python, C, SQL, XML.
+- Ferramentas de Desenvolvimento: Git, Visual Studio Code, Photoshop, Canvas
+- Conceitos: Programação Orientada a Objetos, Bancos de Dados Relacionais e NoSQL, Engenharia de Software, entre outros.
